@@ -1,4 +1,4 @@
-# aulaProgramacaoWeb
+# AulaProgramacaoWeb
 ## 🧩 Entrega Final – Requisitos Adicionais Atendidos
 
 
@@ -22,3 +22,14 @@
 - HTML, CSS e JS **minificados** para reduzir tamanho final dos arquivos;
 - Imagens otimizadas e comprimidas em múltiplos formatos (WebP, AVIF, JPG);
 - Estrutura preparada para deploy em ambiente de produção (GitHub Pages, Vercel ou Netlify).
+
+ ✔ GitFlow
+✔ Commits semânticos
+✔ Releases com versionamento
+✔ Issues, milestones, PRs
+✔ Acessibilidade WCAG 2.1 AA
+✔ Modo alto contraste + modo escuro
+✔ Navegação por teclado
+✔ Atributos ARIA
+✔ Minificação de HTML, CSS e JS
+✔ Otimização de imagens
